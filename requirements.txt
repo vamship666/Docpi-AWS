@@ -1,0 +1,15 @@
+django==4.2
+djangorestframework
+pyyaml
+requests
+django-cors-headers
+pandas
+asgiref
+pymongo==3.12.3
+pytz
+sqlparse
+typing-extensions
+djangorestframework_simplejwt
+boto3
+# pip install djongo do this manually
+# pip install "pymongo[srv]" do this manually
